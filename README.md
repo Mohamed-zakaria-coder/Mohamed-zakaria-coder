@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-zakaria-coder&show_icons=true&locale=en&layout=compact" alt="mohamed-zakaria-coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-zakaria-coder&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=radical" alt="mohamed-zakaria-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-zakaria-coder&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=light" alt="mohamed-zakaria-coder" /></p>
 
