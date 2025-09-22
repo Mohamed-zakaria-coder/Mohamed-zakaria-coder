@@ -1,4 +1,16 @@
-<h1 align="center">Mohamed Zakaria</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohamed+Zakaria;Web+Developer;React+%7C+Next.js+%7C+Node.js;01001101+01011010" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Coding-Always-green?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Web-Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡_Learning-Next.js-purple?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/🛠️_Backend-Node.js-success?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
 <h3 align="center">Hello, I'm Mohamed Zakaria, a web developer with experience in building websites and web applications. I am passionate about creating responsive and user-friendly websites that deliver a great user experience. I have expertise in HTML, CSS, JavaScript, and React. I am always expanding my skill set and learning new technologies.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://mohamed-zakaria-coder.github.io/Portfolio/](https://mohamed-zakaria-coder.github.io/Portfolio/)
