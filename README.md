@@ -13,11 +13,14 @@
 
 <h3 align="center">Hello, I'm Mohamed Zakaria, a web developer with experience in building websites and web applications. I am passionate about creating responsive and user-friendly websites that deliver a great user experience. I have expertise in HTML, CSS, JavaScript, and React. I am always expanding my skill set and learning new technologies.</h3>
 
-- 👨‍💻 Some of my projects are available at [https://mohamed-zakaria-coder.github.io/Portfolio/](https://mohamed-zakaria-coder.github.io/Portfolio/)
+## 💡 Quick Links & Contact
 
-- 📫 How to reach me **mz7891555@gmail.com**
+| 🔗 Resource     | Link |
+|-----------------|------|
+| 👨‍💻 Portfolio   | [mohamed-zakaria-coder.github.io/Portfolio](https://mohamed-zakaria-coder.github.io/Portfolio/) |
+| 📫 Email        | [mz7891555@gmail.com](mailto:mz7891555@gmail.com) |
+| 📄 Resume       | [View Resume](https://docs.google.com/document/d/1Tflv3V45Y2Qh-iBjI84gM-97kG6AkkTX7qaOmE6HlJk/edit?usp=sharing) |
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Tflv3V45Y2Qh-iBjI84gM-97kG6AkkTX7qaOmE6HlJk/edit?usp=sharing](https://docs.google.com/document/d/1Tflv3V45Y2Qh-iBjI84gM-97kG6AkkTX7qaOmE6HlJk/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
