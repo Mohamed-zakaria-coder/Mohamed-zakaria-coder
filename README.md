@@ -1,8 +1,13 @@
-<p align="center">
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:7B2FF7&height=180&section=header&text=Mohamed%20Zakaria&fontSize=40&fontColor=ffffff)
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohamed+Zakaria;Web+Developer;React+%7C+Next.js+%7C+Node.js;01001101+01011010" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF99&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+a+Web+Developer;React+%7C+Next.js+%7C+Node.js;Passionate+about+UI+%26+UX" alt="Typing SVG" />
   </a>
-</p>
+
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Coding-Always-green?style=for-the-badge&logo=linux&logoColor=white" />
