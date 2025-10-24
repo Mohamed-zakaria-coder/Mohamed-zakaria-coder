@@ -23,7 +23,16 @@
 ---
 
 
-<h3 align="center">Hello, I'm Mohamed Zakaria, a web developer with experience in building websites and web applications. I am passionate about creating responsive and user-friendly websites that deliver a great user experience. I have expertise in HTML, CSS, JavaScript, and React. I am always expanding my skill set and learning new technologies.</h3>
+## 👨‍💻 About Me
+
+Hello, I'm **Mohamed Zakaria**, a web developer with experience in building websites and web applications.  
+
+I am passionate about creating **responsive** and **user-friendly websites** that deliver a great user experience.  
+
+I have expertise in: **HTML, CSS, JavaScript, React, Next.js, Tailwind**
+
+I continue to expand my skill set and learn new technologies.
+
 
 ## 💡 Quick Links & Contact
 
