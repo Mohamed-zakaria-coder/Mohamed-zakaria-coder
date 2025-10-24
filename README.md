@@ -9,12 +9,19 @@
 </div>
 
 
-<p align="center">
+---
+
+<div align="center">
+
   <img src="https://img.shields.io/badge/💻_Coding-Always-green?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/🌐_Web-Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/⚡_Learning-Next.js-purple?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/🛠️_Backend-Node.js-success?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+
+</div>
+
+---
+
 
 <h3 align="center">Hello, I'm Mohamed Zakaria, a web developer with experience in building websites and web applications. I am passionate about creating responsive and user-friendly websites that deliver a great user experience. I have expertise in HTML, CSS, JavaScript, and React. I am always expanding my skill set and learning new technologies.</h3>
 
