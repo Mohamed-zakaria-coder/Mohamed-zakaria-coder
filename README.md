@@ -38,9 +38,9 @@ I continue to expand my skill set and learn new technologies.
 
 | 🔗 Resource     | Link |
 |-----------------|------|
-| 👨‍💻 Portfolio   | [mohamed-zakaria-coder.github.io/Portfolio](https://mohamed-zakaria-coder.github.io/Portfolio/) |
+| 👨‍💻 Portfolio   | <a href="https://mohamed-zakaria-coder.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">mohamed-zakaria-coder.github.io/Portfolio</a> |
 | 📫 Email        | [mz7891555@gmail.com](mailto:mz7891555@gmail.com) |
-| 📄 Resume       | [View Resume](https://docs.google.com/document/d/1Tflv3V45Y2Qh-iBjI84gM-97kG6AkkTX7qaOmE6HlJk/edit?usp=sharing) |
+| 📄 Resume       | <a href="https://docs.google.com/document/d/1Tflv3V45Y2Qh-iBjI84gM-97kG6AkkTX7qaOmE6HlJk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume</a> |
 
 
 ## Connect with me
