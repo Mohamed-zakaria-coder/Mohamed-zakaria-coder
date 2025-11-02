@@ -71,9 +71,6 @@ I continue to expand my skill set and learn new technologies.
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
-  </a>
 
   <!-- Styling -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
