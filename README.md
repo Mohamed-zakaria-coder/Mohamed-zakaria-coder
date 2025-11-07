@@ -88,9 +88,19 @@ I continue to expand my skill set and learn new technologies.
   </a>&nbsp;&nbsp;
 
   <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
          width="40" height="40" alt="Node.js"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+         width="40" height="40" alt="Express.js"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg"
+         width="40" height="40" alt="Mongoose"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -105,6 +115,7 @@ I continue to expand my skill set and learn new technologies.
   </a>
 
 </p>
+
 
 
 
