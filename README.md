@@ -113,10 +113,14 @@ I continue to expand my skill set and learn new technologies.
          width="40" height="40" alt="Node.js"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-         width="40" height="40" alt="Express.js"/>
-  </a>&nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
+    <img src="https://cdn.simpleicons.org/express" width="40" height="40" alt="Express.js"/>
+  </picture>
+</a>&nbsp;&nbsp;
+
 
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg"
