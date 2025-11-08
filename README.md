@@ -80,6 +80,14 @@ I continue to expand my skill set and learn new technologies.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
          width="40" height="40" alt="React"/>
   </a>&nbsp;&nbsp;
+  <p align="left">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/nextdotjs#gh-light-mode-only"
+             width="40" height="40" alt="Next.js (Light Mode)"/>
+        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff#gh-dark-mode-only"
+             width="40" height="40" alt="Next.js (Dark Mode)"/>
+    </a>
+</p>
 
   <!-- Styling -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
