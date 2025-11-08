@@ -86,7 +86,7 @@ I continue to expand my skill set and learn new technologies.
             <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs">
             <img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" alt="Next.js"/>
         </picture>
-    </a>
+    </a>&nbsp;&nbsp;
 
 
   <!-- Styling -->
