@@ -74,6 +74,13 @@ I continue to expand my skill set and learn new technologies.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
          width="40" height="40" alt="TypeScript"/>
   </a>&nbsp;&nbsp;
+    <br>
+
+    
+  <!-- Spacer -->
+  <img src="https://dummyimage.com/1x10/000000/000000.png&text=" width="1" height="10" alt="" />
+  <br>
+  
 
   <!-- Frameworks -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -94,7 +101,12 @@ I continue to expand my skill set and learn new technologies.
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
          width="40" height="40" alt="TailwindCSS"/>
   </a>&nbsp;&nbsp;
-
+  
+  <br>
+  <!-- Spacer -->
+  <img src="https://dummyimage.com/1x10/000000/000000.png&text=" width="1" height="10" alt="" />
+  <br>
+  
   <!-- Backend -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
