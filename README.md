@@ -94,13 +94,6 @@ I continue to expand my skill set and learn new technologies.
     </picture>
   </a>&nbsp;&nbsp;
 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bootstrap/ffffff">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bootstrap/563d7c">
-      <img src="https://cdn.simpleicons.org/bootstrap/563d7c" width="40" height="40" alt="Bootstrap"/>
-    </picture>
-  </a>&nbsp;&nbsp;
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
          width="40" height="40" alt="TailwindCSS"/>
