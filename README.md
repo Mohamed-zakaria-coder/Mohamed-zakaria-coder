@@ -74,53 +74,55 @@ I continue to expand my skill set and learn new technologies.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
          width="40" height="40" alt="TypeScript"/>
   </a>&nbsp;&nbsp;
-    <br>
+  <br>
 
-    
   <!-- Spacer -->
   <img src="https://dummyimage.com/1x10/000000/000000.png&text=" width="1" height="10" alt="" />
   <br>
-  
 
   <!-- Frameworks -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
          width="40" height="40" alt="React"/>
   </a>&nbsp;&nbsp;
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs">
-            <img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" alt="Next.js"/>
-        </picture>
-    </a>&nbsp;&nbsp;
 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs">
+        <img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" alt="Next.js"/>
+    </picture>
+  </a>&nbsp;&nbsp;
 
-  <!-- Styling -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bootstrap/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bootstrap/563d7c">
+      <img src="https://cdn.simpleicons.org/bootstrap/563d7c" width="40" height="40" alt="Bootstrap"/>
+    </picture>
+  </a>&nbsp;&nbsp;
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
          width="40" height="40" alt="TailwindCSS"/>
   </a>&nbsp;&nbsp;
-  
-  <br>
-  <!-- Spacer -->
+ <br>
+   <!-- Spacer -->
   <img src="https://dummyimage.com/1x10/000000/000000.png&text=" width="1" height="10" alt="" />
   <br>
-  
+
   <!-- Backend -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
          width="40" height="40" alt="Node.js"/>
   </a>&nbsp;&nbsp;
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-    <img src="https://cdn.simpleicons.org/express" width="40" height="40" alt="Express.js"/>
-  </picture>
-</a>&nbsp;&nbsp;
-
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
+      <img src="https://cdn.simpleicons.org/express" width="40" height="40" alt="Express.js"/>
+    </picture>
+  </a>&nbsp;&nbsp;
 
   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg"
@@ -131,14 +133,42 @@ I continue to expand my skill set and learn new technologies.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
          width="40" height="40" alt="MongoDB"/>
   </a>&nbsp;&nbsp;
+  <br>
 
+  <!-- Spacer -->
+  <img src="https://dummyimage.com/1x10/000000/000000.png&text=" width="1" height="10" alt="" />
+  <br>
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         width="40" height="40" alt="Git"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+      <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
+    </picture>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
+    </picture>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/netlify/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/netlify/00C7B7">
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/>
+    </picture>
   </a>
 
 </p>
+
 
 
 
