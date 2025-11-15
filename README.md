@@ -44,10 +44,9 @@ I continue to expand my skill set and learn new technologies.
 
 ---
 
-## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-zakaria-b75750275/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed zakaria" height="30" width="40" /></a>
-</p>
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zakaria-b75750275/)
 
 ---
 
@@ -208,5 +207,5 @@ I continue to expand my skill set and learn new technologies.
 
 ---
 
-## Github Stats
+## 📊 Github Stats
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohamed-zakaria-coder&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=synthwave" alt="mohamed-zakaria-coder" /></p>
