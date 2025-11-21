@@ -209,3 +209,5 @@ I continue to expand my skill set and learn new technologies.
 
 ## 📊 Github Stats
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohamed-zakaria-coder&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=synthwave" alt="mohamed-zakaria-coder" /></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:7B2FF7&height=140&section=footer" />
