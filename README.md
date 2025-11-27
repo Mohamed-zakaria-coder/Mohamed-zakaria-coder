@@ -18,8 +18,14 @@
   <img src="https://img.shields.io/badge/🛠️_Backend-Node.js-success?style=for-the-badge&logo=node.js&logoColor=white" />
 
 </div>
-<p align="center"><strong>Building clean, responsive, and intuitive interfaces with React & Next.js.</strong></p>
 
+<br />
+
+<div align="center">
+  <strong>Building clean, responsive, and intuitive interfaces with React & Next.js.</strong>
+</div>
+
+<br />
 
 ---
 
