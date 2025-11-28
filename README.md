@@ -32,9 +32,9 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Mohamed Zakaria**, a web developer with experience in building websites and web applications.  
+Hello, I'm Mohamed Zakaria, a web developer with hands-on experience building modern and scalable web applications.
 
-I am passionate about creating **responsive** and **user-friendly websites** that deliver a great user experience.  
+I’m passionate about creating responsive, clean, and user-friendly interfaces that deliver a smooth user experience.
 
 I have expertise in: **HTML, CSS, JavaScript, React, Next.js, Tailwind**
 
