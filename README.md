@@ -64,59 +64,55 @@ I continue to expand my skill set and learn new technologies.
 <table>
   <tr>
     <!-- Frontend -->
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
              width="40" height="40" alt="HTML5"/>
       </a>
       <br/>HTML5
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
              width="40" height="40" alt="CSS3"/>
       </a>
       <br/>CSS3
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
              width="40" height="40" alt="JavaScript"/>
       </a>
       <br/>JavaScript
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
              width="40" height="40" alt="TypeScript"/>
       </a>
       <br/>TypeScript
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
              width="40" height="40" alt="React"/>
       </a>
       <br/>React
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs">
-          <img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" alt="Next.js"/>
-        </picture>
+        <img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" alt="Next.js"/>
       </a>
       <br/>Next.js
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
              width="40" height="40" alt="TailwindCSS"/>
       </a>
       <br/>Tailwind
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://mui.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/mui/007FFF" width="40" height="40" alt="MUI"/>
       </a>
@@ -129,31 +125,27 @@ I continue to expand my skill set and learn new technologies.
 <table>
   <tr>
     <!-- Backend -->
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
              width="40" height="40" alt="Node.js"/>
       </a>
       <br/>Node.js
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
-          <img src="https://cdn.simpleicons.org/express" width="40" height="40" alt="Express.js"/>
-        </picture>
+        <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" alt="Express.js"/>
       </a>
       <br/>Express
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
              width="40" height="40" alt="MongoDB"/>
       </a>
       <br/>MongoDB
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg"
              width="40" height="40" alt="Mongoose"/>
@@ -167,39 +159,27 @@ I continue to expand my skill set and learn new technologies.
 <table>
   <tr>
     <!-- Tools -->
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
       </a>
       <br/>Git
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-          <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
-        </picture>
+        <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
       </a>
       <br/>GitHub
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
-          <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
-        </picture>
+        <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
       </a>
       <br/>Vercel
     </td>
-    <td align="center" width="80">
+    <td align="center" valign="middle" width="80">
       <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/netlify/ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/netlify/00C7B7">
-          <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/>
-        </picture>
+        <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/>
       </a>
       <br/>Netlify
     </td>
@@ -208,11 +188,7 @@ I continue to expand my skill set and learn new technologies.
 
 
 
-
-
 <br/>
-
-
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-zakaria-coder&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="mohamed-zakaria-coder" /></p>
 
