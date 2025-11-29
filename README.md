@@ -60,6 +60,7 @@ I continue to expand my skill set and learn new technologies.
 
 ## 🛠️ Languages & Tools
 
+### Frontend
 <table>
   <tr>
     <!-- Frontend -->
@@ -91,10 +92,6 @@ I continue to expand my skill set and learn new technologies.
       </a>
       <br/>TypeScript
     </td>
-  </tr>
-
-  <tr>
-    <!-- Frameworks -->
     <td align="center" width="80">
       <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -120,14 +117,16 @@ I continue to expand my skill set and learn new technologies.
       <br/>Tailwind
     </td>
     <td align="center" width="80">
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/mui/007FFF" width="40" height="40" alt="MUI"/>
-  </a>
-  <br/>MUI
-</td>
-
+      <a href="https://mui.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/mui/007FFF" width="40" height="40" alt="MUI"/>
+      </a>
+      <br/>MUI
+    </td>
   </tr>
+</table>
 
+### Backend
+<table>
   <tr>
     <!-- Backend -->
     <td align="center" width="80">
@@ -162,7 +161,10 @@ I continue to expand my skill set and learn new technologies.
       <br/>Mongoose
     </td>
   </tr>
+</table>
 
+### Tools
+<table>
   <tr>
     <!-- Tools -->
     <td align="center" width="80">
@@ -208,6 +210,7 @@ I continue to expand my skill set and learn new technologies.
 
 
 
+<br/>
 
 
 
