@@ -63,6 +63,7 @@ I continue to expand my skill set and learn new technologies.
 ### Frontend
 <table>
   <tr>
+    <!-- Frontend Languages -->
     <td align="center" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -106,7 +107,11 @@ I continue to expand my skill set and learn new technologies.
     </td>
     <td align="center" width="80">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" alt="Next.js"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs">
+          <img src="https://cdn.simpleicons.org/nextdotjs" width="40" height="40" alt="Next.js"/>
+        </picture>
       </a>
       <br/>Next.js
     </td>
@@ -138,7 +143,11 @@ I continue to expand my skill set and learn new technologies.
     </td>
     <td align="center" width="80">
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" alt="Express.js"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000">
+          <img src="https://cdn.simpleicons.org/express" width="40" height="40" alt="Express.js"/>
+        </picture>
       </a>
       <br/>Express
     </td>
@@ -170,24 +179,37 @@ I continue to expand my skill set and learn new technologies.
     </td>
     <td align="center" width="80">
       <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+          <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
+        </picture>
       </a>
       <br/>GitHub
     </td>
     <td align="center" width="80">
       <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
+          <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
+        </picture>
       </a>
       <br/>Vercel
     </td>
     <td align="center" width="80">
       <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/netlify/ffffff">
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/netlify/00C7B7">
+          <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" alt="Netlify"/>
+        </picture>
       </a>
       <br/>Netlify
     </td>
   </tr>
 </table>
+
 
 
 
