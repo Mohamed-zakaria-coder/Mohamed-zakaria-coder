@@ -129,7 +129,18 @@ I continue to expand my skill set and learn new technologies.
       <br/>MUI
     </td>
   </tr>
+  <tr>
+  <td align="center" width="80">
+    <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer">
+      <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40" alt="React Query"/>
+    </a>
+    <br/>React Query
+  </td>
+
+</tr>
+
 </table>
+
 
 ### Backend
 <table>
