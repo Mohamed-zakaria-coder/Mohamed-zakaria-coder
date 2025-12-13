@@ -136,6 +136,14 @@ I continue to expand my skill set and learn new technologies.
     </a>
     <br/>React Query
   </td>
+  <td align="center" width="80">
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+         width="40" height="40" alt="Redux Toolkit"/>
+  </a>
+  <br/>Redux Toolkit
+</td>
+
 
 </tr>
 
