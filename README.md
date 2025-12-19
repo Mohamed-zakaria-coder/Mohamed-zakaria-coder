@@ -143,6 +143,13 @@ I continue to expand my skill set and learn new technologies.
   </a>
   <br/>Redux Toolkit
 </td>
+  <td align="center" width="80">
+    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.simpleicons.org/framer/0055FF"
+           width="40" height="40" alt="Framer Motion"/>
+    </a>
+    <br/>Framer Motion
+  </td>
 
 
 </tr>
