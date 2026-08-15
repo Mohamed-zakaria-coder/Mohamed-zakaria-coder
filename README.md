@@ -32,13 +32,15 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm Mohamed Zakaria, a web developer with hands-on experience building modern and scalable web applications.
+I'm Mohamed Zakaria, a Frontend / MERN Stack Developer focused on building
+responsive, performant, and user-friendly web applications.
 
-I’m passionate about creating responsive, clean, and user-friendly interfaces that deliver a smooth user experience.
+I primarily work with React, Next.js, JavaScript, and modern frontend
+technologies, while also developing my backend skills with Node.js,
+Express, MongoDB, and Mongoose.
 
-I have expertise in: **HTML, CSS, JavaScript, React, Next.js, Tailwind**
-
-I continue to expand my skill set and learn new technologies.
+I'm continuously improving my skills by building real-world projects and
+exploring modern web development practices.
 
 ---
 
