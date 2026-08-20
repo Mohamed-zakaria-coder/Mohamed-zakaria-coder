@@ -49,7 +49,7 @@ exploring modern web development practices.
 | 🔗 Resource     | Link |
 |-----------------|------|
 | 👨‍💻 Portfolio   | [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge)](https://mohamed-zakaria-coder.github.io/Portfolio/) |
-| 📫 Email        | [![Email](https://img.shields.io/badge/Email-Send-green?style=for-the-badge)](mailto:mz7891555@gmail.com) |
+| 📫 Email        | [![Email](https://img.shields.io/badge/Email-Send-green?style=for-the-badge)](mailto:mohamed.zakaria.dev98@gmail.com) |
 | 📄 Resume       | [![Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge)](https://docs.google.com/document/d/1Tflv3V45Y2Qh-iBjI84gM-97kG6AkkTX7qaOmE6HlJk/edit?usp=sharing) |
 
 ---
