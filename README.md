@@ -179,6 +179,12 @@ exploring modern web development practices.
       </a>
       <br/>Express
     </td>
+  </tr>
+</table>
+
+### Database
+<table>
+  <tr>
     <td align="center" width="80">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -192,6 +198,27 @@ exploring modern web development practices.
              width="40" height="40" alt="Mongoose"/>
       </a>
       <br/>Mongoose
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1"
+             width="40" height="40" alt="PostgreSQL"/>
+      </a>
+      <br/>PostgreSQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/databricks"
+           width="40" height="40" alt="SQL"/>
+      <br/>SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/drizzle"
+             width="40" height="40" alt="Drizzle ORM"/>
+      </a>
+      <br/>Drizzle ORM
     </td>
   </tr>
 </table>
